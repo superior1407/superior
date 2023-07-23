@@ -1,0 +1,26 @@
+.btn-hero {
+    background-color: #e84545;
+    color: #fff;
+}
+
+.want-more {
+    font-size: 1.8rem;
+}
+
+.sp-color {
+    color: #e84545;
+    font-weight: 700;
+}
+
+.bg-diff-1 {
+    background-color: rgb(232, 69, 69,0.8);
+}
+.bg-diff-2 {
+    background-color: rgb(232, 69, 69,0.9);
+}
+.bg-diff-3 {
+    background-color: rgba(202, 50, 50, 0.8);
+}
+.bg-diff-4 {
+    background-color: rgb(232, 69, 69,0.8);
+}
