@@ -24,3 +24,10 @@
 .bg-diff-4 {
     background-color: rgb(232, 69, 69,0.8);
 }
+
+.list {
+    color: black;
+}
+.active {
+    color: rgb(232, 69, 69,0.8);
+}
